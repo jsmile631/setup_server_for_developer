@@ -26,3 +26,19 @@ $ sudo tar xzf CLion-2023.1.4.tar.gz -C /opt
 ```
 $ /opt/clion-CLion-2023.1.4/bin/clion.sh
 ```
+
+
+
+## Installation of PostgreSQL on Ubuntu 20.04
+
+### Update system packages
+
+1.
+```
+$ sudo apt update
+```
+2.Using the following command to upgrade the installed packages:
+```
+$ sudo apt -y upgrade
+
+```
